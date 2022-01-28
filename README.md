@@ -23,11 +23,11 @@ Added Navigations and Tabbed Pages
 
 Selected Item Display Alert and naviagtionn to new page with title Bind to Name Property
 
-![Image 6](https://github.com/Esabzayi/Xamarin_Lists/blob/master/Xamarin_Lists/Xamarin_Lists/images/image6.jpeg)
+![Image 6](https://github.com/Esabzayi/Xamarin_Lists/blob/master/Xamarin_Lists/Xamarin_Lists/images/Image6.jpeg)
 
-![Image 5](https://github.com/Esabzayi/Xamarin_Lists/blob/master/Xamarin_Lists/Xamarin_Lists/images/image7.jpeg)
+![Image 5](https://github.com/Esabzayi/Xamarin_Lists/blob/master/Xamarin_Lists/Xamarin_Lists/images/Image7.jpeg)
 
 Other Tabbed Page
 
-![Image 5](https://github.com/Esabzayi/Xamarin_Lists/blob/master/Xamarin_Lists/Xamarin_Lists/images/image8.jpeg)
+![Image 5](https://github.com/Esabzayi/Xamarin_Lists/blob/master/Xamarin_Lists/Xamarin_Lists/images/Image8.jpeg)
 
