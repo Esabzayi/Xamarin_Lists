@@ -42,12 +42,19 @@ namespace Xamarin_Lists
 
         public async void Mylist_ItemTapped(object sender , ItemTappedEventArgs e)
         {
-            var SeletectedItem = (Contacts)e.Item;
+           var SeletectedItem = (Contacts)e.Item;
             await DisplayAlert("You have Tapped " + SeletectedItem.Id, SeletectedItem.Name, "Cancel");
+           
         }
 
-        public async void Mylist_ItemSelected(object sender, ItemTappedEventArgs e)
+        public async void Mylist_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
+            if (e.SelectedItem == null)
+            {
+                return;
+            }
+            var contact = e.SelectedItem as Contacts;
+            await Navigation.PushAsync(new ContactDetailPage(contact));
             Mylist.SelectedItem = null;
         }
 

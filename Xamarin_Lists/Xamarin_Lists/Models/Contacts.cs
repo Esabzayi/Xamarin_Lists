@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Xamarin_Lists.Models
 {
-    class Contacts
+   public class Contacts
     {
         public int Id { get; set; }
         public string Name { get; set; }
